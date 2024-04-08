@@ -1,0 +1,1 @@
+pyinstaller -F -w main.py -i disposition/MemorizeWords.ico --add-data "disposition/默认词汇.txt;."

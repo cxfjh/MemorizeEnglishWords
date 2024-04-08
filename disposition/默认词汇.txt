@@ -1,0 +1,225 @@
+286. report 报告；报道
+287. rest 休息；其余
+288. rice 大米；米饭
+289. right 右边；正确
+290. ring 打电话
+291. river 江；河
+292. road 道路；公路
+293. room 房间；室
+294. school 学校
+295. science 科学
+296. sea 海；海洋
+297. season 季；季节
+298. seat 座位
+299. second 秒；第二个人或物
+300. set 设备；套
+301. sheep 羊；绵羊
+302. ship 船；轮船
+303. shirt 衬衫
+304. shoe 鞋
+305. shop 商店；店铺
+306. shout 喊；高声呼喊
+307. side 边；面
+308. sir 先生
+309. sister 姐妹
+310. size 尺寸；大小
+311. skirt 短裙
+312. sky 天空；天
+313. sleep 睡觉
+314. smell 味；气味
+315. smile 微笑
+316. snow 雪
+317. soldier 士兵
+318. son 儿子
+319. song 歌唱；歌曲
+320. sound 声音
+321. south 南；南方
+322. sport 运动；运动会
+323. spring 春天；春季
+324. stamp 邮票
+325. star 星; 恒星
+326. station 站
+327. stay 停留；逗留
+328. step 脚步；脚步声
+329. stick木棒；木棍
+330. stop 停止；车站
+331. story 故事；小说
+332. street 街；街道
+333. student 学生
+334. study 学习；研究
+335. subject 科目；（语法）主语
+336. sugar 糖
+337. summer 夏天；夏季
+338. sun 太阳；阳光
+339. supper 晚餐
+340. surprise 惊奇；诧异
+341. sweet 糖果
+342. swim 游；游泳
+343. table 桌子
+344. talk 谈话；讲话
+345. tea 茶；茶叶
+346. teacher 教师
+347. team 队；组
+348. telephone 电话
+349. temperature温度
+350. term 学期
+351. thank 感谢；谢谢
+352. thing 事情；东西
+353. ticket 票；券
+354. time 时间；次
+355. today 今天
+356. tomorrow 明天
+357. tooth 牙齿
+358. top 顶部；上面
+359. town 城镇；镇
+360. train 火车
+361. travel （长途）旅行
+362. tree 树
+363. trouble 烦恼；麻烦
+364. TV 电视
+365. uncle 叔父；伯父
+366. vegetable 蔬菜
+367. village 村庄；乡村
+368. visitor 参观者；访问者
+369. walk 走 ；散步
+370. wall 墙
+371. watch 手表；怀表
+372. water 水
+373. way 道路；方法
+374. weather 天气
+375. week 周；星期
+376. welcome 欢迎
+377. west 西；西方
+378. while 一会儿；一段时间
+379. white 白色
+380. wife 妻子
+381. wind 风
+382. window 窗
+383. winter 冬天；冬季
+384. wish 愿望；祝愿
+385. woman 妇女；女人
+386. word 词；单词
+387. work 工作；劳动
+388. worker 工人；工作者
+389. world 世界
+390. year 年
+391. yellow 黄色
+392. yesterday 昨天
+393. zero 零
+394. zoo 动物园
+111.reach 到达；抵达
+112.read 读；朗读
+113.receive 收到；得到
+114.remember 记得；想起
+115.report 报告；报道
+116.ride 骑；乘车旅行
+117.ring 响；给什么打电话
+118.run 跑；奔跑
+119.save 救；挽救
+120.say 说；讲
+121.see 看；拜访；看望
+122.seem 好像；似乎
+123.sell 卖；销售
+124.send 派遣；送
+125.set 建立；创立
+126.shall 将；要；会
+127.shine 照耀；发光；发亮
+128.shop 到商店买东西
+129.shout 喊；高声呼喊
+130.show 给……看；出示
+131.sing 唱；唱歌
+132.sit 坐
+133.sleep 睡觉
+134.smell 嗅；闻；散发气味
+135.smile 微笑
+136.snow 下雪
+137.sound 听起来；似乎
+138.speak 说话；讲话
+139.spend 花费；度过
+140.stand 站；立
+141.start 开始；出发
+142.stay 停留；暂住
+143.step 走；跨步
+144.stop 使停止；阻止
+145.study 学习；研究
+146.surprise 使惊奇；使诧异
+147.swim 游；游泳
+148.take 拿 ；带去；花费
+149.talk 说话；交谈
+150.teach 教；教导
+151.telephone 打电话
+152.tell 告诉；讲述
+153.thank 谢；感谢
+154.think 想；认为
+155.throw 投；掷；扔
+156.travel 旅行
+157.try 试；努力
+158.turn 转动；转变
+159.understand 懂得；理解
+160.use 利用；使用
+161.visit 参观；访问；拜访
+162.wait 等；等候
+163.wake 醒；醒来
+164.walk 走；散步
+165.want 想要；需要
+166.wash 洗
+167.watch 观看；注视
+168.water 给……浇水
+169.wear 穿；戴
+170.welcome 欢迎
+171.will 将；会；要
+172.win 获胜；赢得
+173.wish 希望；想要
+174.work 工作；运转
+175.worry 烦恼；担心
+176. write 书写；写下
+1.able 能够;有能力的
+2.above 上面的
+3.afraid 害怕的;担心的
+4.alone 单独的
+5.all 全部;所有的
+6.angry 生气的;愤怒的
+7.another 再一;另一
+8.any 一些;任何的
+9.bad 坏的;严重的
+10.beautiful 美丽的
+11.big 大的
+12.black 黑色的
+13.blue 蓝色的
+14.both 两;双
+15.bright 明亮的;聪明的
+16.brown 棕色的
+17.busy 忙的;忙碌的
+18.careful 小心的;仔细的
+19.cheap 便宜的
+20.clean 干净的;清洁的
+21.clear 清晰的;清楚的
+22.close 近的;靠近的
+23.cloudy 多云的
+24.cold 冷的;寒冷的
+25.cool 凉的;凉快的
+26.dangerous 危险的
+27.dark 黑暗的;深色的
+28.dead 死的
+29.dear 亲爱的;贵的
+30.deep 深的
+31.delicious 美味的；可口的
+32.different 不同的；差异的
+33.difficult 困难的；艰难的
+34.dirty 脏的
+35.dry 干的；干燥的
+36.early 早的
+37.east 东方的
+38.easy 容易的
+39.either 任何一方的
+40.empty 空的
+41.enough 足够的；充分的
+42.every 每一；每个的
+43.expensive 昂贵的
+44.famous 著名的
+45.far 远的
+46.fast 快的
+47.favourite 喜爱的；中意的
+48.few 不多的；少数的
+49.fine 晴朗的；很好
+50.first 第一；最初的
